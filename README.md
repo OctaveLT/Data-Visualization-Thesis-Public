@@ -4,7 +4,7 @@ This repository contains the results from my Master Thesis at [KTH](www.kth.se).
 
 Find the entire report via this link: [Project report](todo).
 
-![Overall interface of the visualization](/public/finalProduct.PNG)
+![Overall interface of the visualization](/finalProduct.PNG)
 
 The project has been enabled and supported by [Evira](www.evira.se).
 
